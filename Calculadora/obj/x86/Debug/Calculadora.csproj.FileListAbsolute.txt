@@ -1,0 +1,26 @@
+C:\Users\Guilherme\Desktop\Calculadora C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Guilherme\Desktop\Calculadora C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Guilherme\Desktop\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\Guilherme\Desktop\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Guilherme\Desktop\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Guilherme\Desktop\AreaDeTrabalho\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Guilherme\Desktop\AreaDeTrabalho\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Guilherme\Desktop\AreaDeTrabalho\Estudos Programação\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Guilherme\Desktop\AreaDeTrabalho\Estudos Programação\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Guilherme\Desktop\AreaDeTrabalho\Estudos Programação\Calculadora C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Guilherme\Desktop\AreaDeTrabalho\Estudos Programação\Calculadora C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Guilherme\Desktop\AreaDeTrabalho\Estudos Programação\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\AreaDeTrabalho\Estudos Programação\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\Guilherme\Desktop\AreaDeTrabalho\Estudos Programação\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\AreaDeTrabalho\Estudos Programação\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\Desktop\1 - Programming studies\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Guilherme\Desktop\Desktop\1 - Programming studies\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Guilherme\Desktop\Desktop\1 - Programming studies\Calculadora C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Guilherme\Desktop\Desktop\1 - Programming studies\Calculadora C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Guilherme\Desktop\Desktop\1 - Programming studies\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Desktop\1 - Programming studies\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\Guilherme\Desktop\Desktop\1 - Programming studies\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Desktop\1 - Programming studies\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
